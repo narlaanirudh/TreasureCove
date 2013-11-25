@@ -7,7 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Parse/Parse.h>
 
 @interface ANFirstViewController : UIViewController
+- (IBAction)logout:(id)sender;
+@property (weak, nonatomic) IBOutlet UILabel *nameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *emailLabel;
+@property (weak, nonatomic) IBOutlet UILabel *mobileLabel;
+@property (weak, nonatomic) IBOutlet UIImageView *profileImage;
+- (IBAction)share:(id)sender;
+
+@property(weak,nonatomic) PFFile *imgFile;
 
 @end

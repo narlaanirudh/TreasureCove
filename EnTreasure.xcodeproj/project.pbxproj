@@ -22,6 +22,38 @@
 		E9DAF07B1840EA1000B2C642 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF05A1840EA1000B2C642 /* UIKit.framework */; };
 		E9DAF0831840EA1000B2C642 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0811840EA1000B2C642 /* InfoPlist.strings */; };
 		E9DAF0851840EA1000B2C642 /* EnTreasureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0841840EA1000B2C642 /* EnTreasureTests.m */; };
+		E9DAF0901840EA5500B2C642 /* 0012.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF08E1840EA5500B2C642 /* 0012.png */; };
+		E9DAF0911840EA5500B2C642 /* 0012@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF08F1840EA5500B2C642 /* 0012@2x.png */; };
+		E9DAF0941840EAD300B2C642 /* 0043.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0921840EAD300B2C642 /* 0043.png */; };
+		E9DAF0951840EAD300B2C642 /* 0043@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0931840EAD300B2C642 /* 0043@2x.png */; };
+		E9DAF0971840EEAE00B2C642 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF0961840EEAE00B2C642 /* Parse.framework */; };
+		E9DAF0991840EED500B2C642 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF0981840EED500B2C642 /* AudioToolbox.framework */; };
+		E9DAF09B1840EEEA00B2C642 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF09A1840EEEA00B2C642 /* CFNetwork.framework */; };
+		E9DAF0A31840EF2B00B2C642 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF09C1840EF2B00B2C642 /* CoreLocation.framework */; };
+		E9DAF0A41840EF2B00B2C642 /* libz.1.1.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF09D1840EF2B00B2C642 /* libz.1.1.3.dylib */; };
+		E9DAF0A51840EF2B00B2C642 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF09E1840EF2B00B2C642 /* MobileCoreServices.framework */; };
+		E9DAF0A61840EF2B00B2C642 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF09F1840EF2B00B2C642 /* QuartzCore.framework */; };
+		E9DAF0A71840EF2B00B2C642 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF0A01840EF2B00B2C642 /* Security.framework */; };
+		E9DAF0A81840EF2B00B2C642 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF0A11840EF2B00B2C642 /* StoreKit.framework */; };
+		E9DAF0A91840EF2B00B2C642 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DAF0A21840EF2B00B2C642 /* SystemConfiguration.framework */; };
+		E9DAF0AC1840F10F00B2C642 /* ANLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0AB1840F10F00B2C642 /* ANLoginViewController.m */; };
+		E9DAF0AF1840F6DB00B2C642 /* 0063.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0AD1840F6DB00B2C642 /* 0063.png */; };
+		E9DAF0B01840F6DB00B2C642 /* 0063@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0AE1840F6DB00B2C642 /* 0063@2x.png */; };
+		E9DAF0B31840FA3D00B2C642 /* ANSignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0B21840FA3D00B2C642 /* ANSignUpViewController.m */; };
+		E9DAF0B81840FCF200B2C642 /* RNBlurModalView.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0B51840FCF200B2C642 /* RNBlurModalView.m */; };
+		E9DAF0B91840FCF200B2C642 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0B71840FCF200B2C642 /* MBProgressHUD.m */; };
+		E9DAF0BC18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0BB18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.m */; };
+		E9DAF0BF18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = E9DAF0BE18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.m */; };
+		E9DAF0C11841430900B2C642 /* blue location.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0C01841430900B2C642 /* blue location.png */; };
+		E9DAF0C31841583700B2C642 /* antique-shop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0C21841583700B2C642 /* antique-shop.jpg */; };
+		E9DAF0C5184158E200B2C642 /* 0066@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0C4184158E200B2C642 /* 0066@2x.png */; };
+		E9DAF0C81841590600B2C642 /* 0045.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0C61841590600B2C642 /* 0045.png */; };
+		E9DAF0C91841590600B2C642 /* 0045@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0C71841590600B2C642 /* 0045@2x.png */; };
+		E9DAF0CC1842247300B2C642 /* adventurer.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0CA1842247300B2C642 /* adventurer.png */; };
+		E9DAF0CD1842247300B2C642 /* greatoutdoors.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0CB1842247300B2C642 /* greatoutdoors.png */; };
+		E9DAF0D01842252B00B2C642 /* Green_Coin.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0CE1842252B00B2C642 /* Green_Coin.png */; };
+		E9DAF0D11842252B00B2C642 /* yellow_kc_120508.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0CF1842252B00B2C642 /* yellow_kc_120508.jpg */; };
+		E9DAF0D3184225CC00B2C642 /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = E9DAF0D2184225CC00B2C642 /* Untitled.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +88,44 @@
 		E9DAF0801840EA1000B2C642 /* EnTreasureTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EnTreasureTests-Info.plist"; sourceTree = "<group>"; };
 		E9DAF0821840EA1000B2C642 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E9DAF0841840EA1000B2C642 /* EnTreasureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnTreasureTests.m; sourceTree = "<group>"; };
+		E9DAF08E1840EA5500B2C642 /* 0012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0012.png; sourceTree = "<group>"; };
+		E9DAF08F1840EA5500B2C642 /* 0012@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0012@2x.png"; sourceTree = "<group>"; };
+		E9DAF0921840EAD300B2C642 /* 0043.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0043.png; sourceTree = "<group>"; };
+		E9DAF0931840EAD300B2C642 /* 0043@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0043@2x.png"; sourceTree = "<group>"; };
+		E9DAF0961840EEAE00B2C642 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		E9DAF0981840EED500B2C642 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		E9DAF09A1840EEEA00B2C642 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		E9DAF09C1840EF2B00B2C642 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		E9DAF09D1840EF2B00B2C642 /* libz.1.1.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.1.3.dylib; path = usr/lib/libz.1.1.3.dylib; sourceTree = SDKROOT; };
+		E9DAF09E1840EF2B00B2C642 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		E9DAF09F1840EF2B00B2C642 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		E9DAF0A01840EF2B00B2C642 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		E9DAF0A11840EF2B00B2C642 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		E9DAF0A21840EF2B00B2C642 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		E9DAF0AA1840F10F00B2C642 /* ANLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLoginViewController.h; sourceTree = "<group>"; };
+		E9DAF0AB1840F10F00B2C642 /* ANLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLoginViewController.m; sourceTree = "<group>"; };
+		E9DAF0AD1840F6DB00B2C642 /* 0063.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0063.png; sourceTree = "<group>"; };
+		E9DAF0AE1840F6DB00B2C642 /* 0063@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0063@2x.png"; sourceTree = "<group>"; };
+		E9DAF0B11840FA3D00B2C642 /* ANSignUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANSignUpViewController.h; sourceTree = "<group>"; };
+		E9DAF0B21840FA3D00B2C642 /* ANSignUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANSignUpViewController.m; sourceTree = "<group>"; };
+		E9DAF0B41840FCF200B2C642 /* RNBlurModalView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNBlurModalView.h; sourceTree = "<group>"; };
+		E9DAF0B51840FCF200B2C642 /* RNBlurModalView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNBlurModalView.m; sourceTree = "<group>"; };
+		E9DAF0B61840FCF200B2C642 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		E9DAF0B71840FCF200B2C642 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		E9DAF0BA18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPKeyboardAvoidingScrollView.h; sourceTree = "<group>"; };
+		E9DAF0BB18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPKeyboardAvoidingScrollView.m; sourceTree = "<group>"; };
+		E9DAF0BD18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+TPKeyboardAvoidingAdditions.h"; sourceTree = "<group>"; };
+		E9DAF0BE18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+TPKeyboardAvoidingAdditions.m"; sourceTree = "<group>"; };
+		E9DAF0C01841430900B2C642 /* blue location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "blue location.png"; sourceTree = "<group>"; };
+		E9DAF0C21841583700B2C642 /* antique-shop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "antique-shop.jpg"; sourceTree = "<group>"; };
+		E9DAF0C4184158E200B2C642 /* 0066@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0066@2x.png"; sourceTree = "<group>"; };
+		E9DAF0C61841590600B2C642 /* 0045.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0045.png; sourceTree = "<group>"; };
+		E9DAF0C71841590600B2C642 /* 0045@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0045@2x.png"; sourceTree = "<group>"; };
+		E9DAF0CA1842247300B2C642 /* adventurer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = adventurer.png; sourceTree = "<group>"; };
+		E9DAF0CB1842247300B2C642 /* greatoutdoors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greatoutdoors.png; sourceTree = "<group>"; };
+		E9DAF0CE1842252B00B2C642 /* Green_Coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Green_Coin.png; sourceTree = "<group>"; };
+		E9DAF0CF1842252B00B2C642 /* yellow_kc_120508.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yellow_kc_120508.jpg; sourceTree = "<group>"; };
+		E9DAF0D2184225CC00B2C642 /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Untitled.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +133,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9DAF0A31840EF2B00B2C642 /* CoreLocation.framework in Frameworks */,
+				E9DAF0A41840EF2B00B2C642 /* libz.1.1.3.dylib in Frameworks */,
+				E9DAF0A51840EF2B00B2C642 /* MobileCoreServices.framework in Frameworks */,
+				E9DAF0A61840EF2B00B2C642 /* QuartzCore.framework in Frameworks */,
+				E9DAF0A71840EF2B00B2C642 /* Security.framework in Frameworks */,
+				E9DAF0A81840EF2B00B2C642 /* StoreKit.framework in Frameworks */,
+				E9DAF0A91840EF2B00B2C642 /* SystemConfiguration.framework in Frameworks */,
 				E9DAF0591840EA1000B2C642 /* CoreGraphics.framework in Frameworks */,
+				E9DAF09B1840EEEA00B2C642 /* CFNetwork.framework in Frameworks */,
+				E9DAF0991840EED500B2C642 /* AudioToolbox.framework in Frameworks */,
 				E9DAF05B1840EA1000B2C642 /* UIKit.framework in Frameworks */,
+				E9DAF0971840EEAE00B2C642 /* Parse.framework in Frameworks */,
 				E9DAF0571840EA1000B2C642 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -85,6 +165,10 @@
 		E9DAF04A1840EA1000B2C642 = {
 			isa = PBXGroup;
 			children = (
+				E9DAF0B11840FA3D00B2C642 /* ANSignUpViewController.h */,
+				E9DAF0B21840FA3D00B2C642 /* ANSignUpViewController.m */,
+				E9DAF0AA1840F10F00B2C642 /* ANLoginViewController.h */,
+				E9DAF0AB1840F10F00B2C642 /* ANLoginViewController.m */,
 				E9DAF05C1840EA1000B2C642 /* EnTreasure */,
 				E9DAF07E1840EA1000B2C642 /* EnTreasureTests */,
 				E9DAF0551840EA1000B2C642 /* Frameworks */,
@@ -104,6 +188,16 @@
 		E9DAF0551840EA1000B2C642 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E9DAF09C1840EF2B00B2C642 /* CoreLocation.framework */,
+				E9DAF09D1840EF2B00B2C642 /* libz.1.1.3.dylib */,
+				E9DAF09E1840EF2B00B2C642 /* MobileCoreServices.framework */,
+				E9DAF09F1840EF2B00B2C642 /* QuartzCore.framework */,
+				E9DAF0A01840EF2B00B2C642 /* Security.framework */,
+				E9DAF0A11840EF2B00B2C642 /* StoreKit.framework */,
+				E9DAF0A21840EF2B00B2C642 /* SystemConfiguration.framework */,
+				E9DAF09A1840EEEA00B2C642 /* CFNetwork.framework */,
+				E9DAF0981840EED500B2C642 /* AudioToolbox.framework */,
+				E9DAF0961840EEAE00B2C642 /* Parse.framework */,
 				E9DAF0561840EA1000B2C642 /* Foundation.framework */,
 				E9DAF0581840EA1000B2C642 /* CoreGraphics.framework */,
 				E9DAF05A1840EA1000B2C642 /* UIKit.framework */,
@@ -122,6 +216,22 @@
 				E9DAF06C1840EA1000B2C642 /* ANFirstViewController.m */,
 				E9DAF06E1840EA1000B2C642 /* ANSecondViewController.h */,
 				E9DAF06F1840EA1000B2C642 /* ANSecondViewController.m */,
+				E9DAF0921840EAD300B2C642 /* 0043.png */,
+				E9DAF0C4184158E200B2C642 /* 0066@2x.png */,
+				E9DAF0C61841590600B2C642 /* 0045.png */,
+				E9DAF0C71841590600B2C642 /* 0045@2x.png */,
+				E9DAF0CA1842247300B2C642 /* adventurer.png */,
+				E9DAF0CB1842247300B2C642 /* greatoutdoors.png */,
+				E9DAF0931840EAD300B2C642 /* 0043@2x.png */,
+				E9DAF0CE1842252B00B2C642 /* Green_Coin.png */,
+				E9DAF0CF1842252B00B2C642 /* yellow_kc_120508.jpg */,
+				E9DAF0C01841430900B2C642 /* blue location.png */,
+				E9DAF0D2184225CC00B2C642 /* Untitled.png */,
+				E9DAF08E1840EA5500B2C642 /* 0012.png */,
+				E9DAF0C21841583700B2C642 /* antique-shop.jpg */,
+				E9DAF08F1840EA5500B2C642 /* 0012@2x.png */,
+				E9DAF0AD1840F6DB00B2C642 /* 0063.png */,
+				E9DAF0AE1840F6DB00B2C642 /* 0063@2x.png */,
 				E9DAF0711840EA1000B2C642 /* Images.xcassets */,
 				E9DAF05D1840EA1000B2C642 /* Supporting Files */,
 			);
@@ -131,6 +241,14 @@
 		E9DAF05D1840EA1000B2C642 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E9DAF0BA18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.h */,
+				E9DAF0BB18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.m */,
+				E9DAF0BD18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.h */,
+				E9DAF0BE18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.m */,
+				E9DAF0B41840FCF200B2C642 /* RNBlurModalView.h */,
+				E9DAF0B51840FCF200B2C642 /* RNBlurModalView.m */,
+				E9DAF0B61840FCF200B2C642 /* MBProgressHUD.h */,
+				E9DAF0B71840FCF200B2C642 /* MBProgressHUD.m */,
 				E9DAF05E1840EA1000B2C642 /* EnTreasure-Info.plist */,
 				E9DAF05F1840EA1000B2C642 /* InfoPlist.strings */,
 				E9DAF0621840EA1000B2C642 /* main.m */,
@@ -234,9 +352,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9DAF0941840EAD300B2C642 /* 0043.png in Resources */,
 				E9DAF0721840EA1000B2C642 /* Images.xcassets in Resources */,
+				E9DAF0B01840F6DB00B2C642 /* 0063@2x.png in Resources */,
+				E9DAF0D11842252B00B2C642 /* yellow_kc_120508.jpg in Resources */,
+				E9DAF0911840EA5500B2C642 /* 0012@2x.png in Resources */,
 				E9DAF0611840EA1000B2C642 /* InfoPlist.strings in Resources */,
+				E9DAF0C31841583700B2C642 /* antique-shop.jpg in Resources */,
+				E9DAF0CD1842247300B2C642 /* greatoutdoors.png in Resources */,
+				E9DAF0AF1840F6DB00B2C642 /* 0063.png in Resources */,
+				E9DAF0901840EA5500B2C642 /* 0012.png in Resources */,
+				E9DAF0CC1842247300B2C642 /* adventurer.png in Resources */,
+				E9DAF0C5184158E200B2C642 /* 0066@2x.png in Resources */,
+				E9DAF0951840EAD300B2C642 /* 0043@2x.png in Resources */,
+				E9DAF0D01842252B00B2C642 /* Green_Coin.png in Resources */,
+				E9DAF0C81841590600B2C642 /* 0045.png in Resources */,
+				E9DAF0C91841590600B2C642 /* 0045@2x.png in Resources */,
+				E9DAF0C11841430900B2C642 /* blue location.png in Resources */,
 				E9DAF06A1840EA1000B2C642 /* Main.storyboard in Resources */,
+				E9DAF0D3184225CC00B2C642 /* Untitled.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,9 +390,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9DAF06D1840EA1000B2C642 /* ANFirstViewController.m in Sources */,
+				E9DAF0B81840FCF200B2C642 /* RNBlurModalView.m in Sources */,
+				E9DAF0AC1840F10F00B2C642 /* ANLoginViewController.m in Sources */,
 				E9DAF0701840EA1000B2C642 /* ANSecondViewController.m in Sources */,
+				E9DAF0B31840FA3D00B2C642 /* ANSignUpViewController.m in Sources */,
 				E9DAF0631840EA1000B2C642 /* main.m in Sources */,
+				E9DAF0BC18410E4E00B2C642 /* TPKeyboardAvoidingScrollView.m in Sources */,
 				E9DAF0671840EA1000B2C642 /* ANAppDelegate.m in Sources */,
+				E9DAF0B91840FCF200B2C642 /* MBProgressHUD.m in Sources */,
+				E9DAF0BF18410EA500B2C642 /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -385,6 +525,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/anirudhnarla/iPhone\\ projects/EnTreasure",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "EnTreasure/EnTreasure-Prefix.pch";
 				INFOPLIST_FILE = "EnTreasure/EnTreasure-Info.plist";
@@ -398,6 +542,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/anirudhnarla/iPhone\\ projects/EnTreasure",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "EnTreasure/EnTreasure-Prefix.pch";
 				INFOPLIST_FILE = "EnTreasure/EnTreasure-Info.plist";
@@ -467,6 +615,7 @@
 				E9DAF08A1840EA1000B2C642 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9DAF08B1840EA1000B2C642 /* Build configuration list for PBXNativeTarget "EnTreasureTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +624,7 @@
 				E9DAF08D1840EA1000B2C642 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
